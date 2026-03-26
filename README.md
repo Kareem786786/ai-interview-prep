@@ -1,0 +1,51 @@
+# Interview Prep AI
+
+## Description
+An AI-powered tool to help with interview preparation.
+- **Backend**: Manages sessions and AI questions.
+- **Frontend**: Shows a UI for practice and tracking.
+
+## Features
+- [AI-Generated Interview Questions](#functionalities)
+- [Session Management](#functionalities)
+- [Interactive User Interface](#functionalities)
+- [Session Deletion](#functionalities)
+- [Modal Popups](#functionalities)
+- [API Integration](#functionalities)
+- [Data Storage](#functionalities)
+- [User Navigation](#functionalities)
+- [Responsive Design](#functionalities)
+
+## How to Set Up
+1. 'git clone https://github.com/Kareem786786/'
+2. 'cd interview-prep-ai'
+3. Backend: `cd backend`, `npm install`, `npm run dev`
+4. Frontend: `cd frontend`, `npm install`, `npm run dev`
+
+## Technologies Used
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Node.js, Express.js, OpenAI API
+- **General**: Git, GitHub
+
+## Functionalities
+### AI-Generated Interview Questions
+Generates customized questions based on job roles and experience levels.
+### Session Management
+Allows users to create, save, and manage practice sessions.
+### Interactive User Interface
+Offers a React-based UI for practicing and navigating.
+### Session Deletion
+Lets users delete unwanted sessions.
+### Modal Popups
+Includes interactive modals for actions like creating or deleting.
+### API Integration
+Connects frontend to backend via APIs.
+### Data Storage
+Stores session data, likely in MongoDB.
+### User Navigation
+Supports navigation between sections using react-router-dom.
+### Responsive Design
+Ensures compatibility across devices with Tailwind CSS.
+
+## Contact
+Email: kareems1591@gmail.com
